@@ -19,5 +19,5 @@ client.on('interactionCreate',interaction=>{
     interaction.reply("Pong!!");
 })
 
-client.login('MTIxMDA2MzMyMTkzNjQyOTA5Ng.G3dW-W.l4NDYzC1UDjuA9jEajIfwybQ6VQA6AsvRztqFk');
+client.login('YOUR_CLIENT_ID');
 
